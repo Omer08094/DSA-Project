@@ -19,7 +19,7 @@ Steps to run the code:
 
 3)There will be a button called calculate, pressing it will displays another window with a printed graph of the shortest route.  The first window shows two more options for book seat and canceling booking.
 
-4)Pressing the "book seat" button will open another window asking for an input for the users name. And upon pressing "okay", there will be a pop up for a ticket for the user. 
+4)Pressing the "Book Seat" button will open another window asking for an input for the users name. And upon pressing "okay", there will be a pop up for a ticket for the user. 
 
 5)Pressing the "Cancel Booking" button will open another window asking for an input for the users name. And upon pressing "okay", it will cancel the booking under that name. 
 
