@@ -24,6 +24,5 @@ Steps to run the code:
 
 5)Pressing the "Cancel Booking" button will open another window asking for an input for the users name. And upon pressing "okay", it will cancel the booking under that name. 
 
-6)The user can feel free to choose new start and end stops to calculate the shortest path for different inputs by repeating the whole process. 
-
+6)The user can feel free to choose new start and end stops to calculate the shortest path for different inputs.
 
