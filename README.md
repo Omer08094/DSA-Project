@@ -9,6 +9,7 @@ Additional files required to run the code are given in main. They include:
 1)A data set named "Bus_data.csv"
 2)An image of the bus named "bus.png"
 
+Please download these files.
 This code can be run on any IDE.
 
 Steps to run the code:
@@ -17,7 +18,7 @@ Steps to run the code:
 
 2)There will be an option to select a start stop and an end stop. Please select your stops.
 
-3)There will be a button called calculate, pressing it will displays another window with a printed graph of the shortest route.  The first window shows two more options for book seat and canceling booking.
+3)There will be a button called "Calculate", pressing it will displays another window with a printed graph of the shortest route.  The first window shows two more options for book seat and canceling booking.
 
 4)Pressing the "Book Seat" button will open another window asking for an input for the users name. And upon pressing "okay", there will be a pop up for a ticket for the user. 
 
